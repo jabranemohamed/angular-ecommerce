@@ -1,10 +1,9 @@
-<h1 align="center">
-  <br>
-  <a><img src="https://github.com/jabranemohamed/angular-ecommerce/blob/master/docs/images/Angular.png" alt="spring boot"></a>
-  <br>
-  Book Shop
-  <br>
-</h1>    
+
+
+# Books Ecommerce
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.18.
+
 
 <p align="center">
     <a alt="Material">
@@ -15,9 +14,6 @@
     </a>     
 </p>
 
-# AngularEcommerce
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.18.
 
 ## Development server
 
