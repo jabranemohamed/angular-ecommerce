@@ -1,3 +1,20 @@
+<h1 align="center">
+  <br>
+  <a><img src="https://github.com/jabranemohamed/angular-ecommerce/blob/master/docs/images/Angular.png" alt="spring boot"></a>
+  <br>
+  Book Shop
+  <br>
+</h1>    
+
+<p align="center">
+    <a alt="Material">
+          <a><img src="https://github.com/jabranemohamed/angular-ecommerce/blob/master/docs/images/img1.png" alt="product list"></a>
+    </a>  
+    <a alt="Material">
+          <a><img src="https://github.com/jabranemohamed/angular-ecommerce/blob/master/docs/images/img1.png" alt="product list"></a>
+    </a>     
+</p>
+
 # AngularEcommerce
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.18.
@@ -25,3 +42,8 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+
+
+# Contributors ##
+[JABRANE MOHAMED](https://www.linkedin.com/in/mohamedhj/)
